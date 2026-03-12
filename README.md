@@ -2,7 +2,7 @@
 
 A practical operational security framework for conducting open source intelligence investigations safely, consistently, and responsibly.
 
-This template was created as part of the **OSINT Foundations program from OSINT Academy while working toward the OSC credential** and is shared as a free resource for investigators who want to build repeatable investigative workflows.
+This template was developed during **OSINT professional development and research into investigative operational security practices** and is shared as a free resource for investigators who want to build repeatable investigative workflows.
 
 ---
 
