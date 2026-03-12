@@ -25,8 +25,7 @@ The goal is to help investigators protect themselves, protect their clients, and
 
 ## Files Included
 
-Investigative-Operational-Security-Protocol.pdf  
-Investigative-Operational-Security-Protocol.docx
+investigative-opsec-template.docx
 
 You can download and modify these templates for your own investigative workflows.
 
