@@ -27,7 +27,7 @@ The goal is to help investigators protect themselves, protect their clients, and
 
 investigative-opsec-template.docx
 
-You can download and modify these templates for your own investigative workflows.
+You can download and modify this template for your own investigative workflows.
 
 ---
 
